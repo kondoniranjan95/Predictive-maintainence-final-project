@@ -1,6 +1,6 @@
 # Predictive Maintainence
 ### Problem: To predict the failure of the process based on its process parameters
-### Data: The dataset consists of 8648 counts for various processes with 31different process parameters like the 3D position, voltage, current, noise,vibrations, temperature, luminosity, forces, process and preparation time.
+### Data: The dataset consists of 8648 counts for various processes with 31different process parameters like the 3D position, voltage, current, noise,vibrations, temperature, luminosity, forces, process and preparation time. Data source https://bigml.com/dashboard/dataset/61ae537d8be2aa1885005c8b
 ### Methodology: Python and Tableau are the primary tools for the data analysis and visualization. Morever, Trello and Git shall be used for Project planning and management.
 ### Major milestones:
 #### 1. Defining the objective 
