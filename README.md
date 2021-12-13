@@ -9,6 +9,6 @@
 #### 4. Exploratory data analysis (EDA)
 #### 5. Machine learning models application and finalizing the model
 #### 6. Iterate untill acceptable model is built
-#### 7. Building a interactive simulation tool
+#### 7. Building an interactive simulation tool
 #### 8. Presentation preparation
 ### GIT repository: https://github.com/kondoniranjan95/Predictive-maintainence-final-project
